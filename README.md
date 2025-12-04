@@ -41,19 +41,25 @@ Highlights: Live system with real-time order tracking . JWT Auth · Notification
 🔹 Meal Delivery System
 
 Real-time e-commerce platform with modern architecture.
+
 Tech: ASP.NET MVC + API, Angular, SignalR, SQL Server
+
 Highlights: Payment Integration · Notifications · Onion Architecture
 
 🔹 Company Management System
 
 Company dashboard for internal management operations.
+
 Tech: Laravel, MySQL, Bootstrap
+
 Highlights: Roles & Permissions · Cookie-Based Auth
 
 🔹 Recipe Platform
 
 Simple UI platform for recipes & content display.
+
 Tech: Angular
+
 Highlights: Components · Routing · Clean UI
 
 📫 Contact Me
