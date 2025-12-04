@@ -21,11 +21,12 @@ Database
 Tools & Others
 <div align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"> </div>
 📂 Featured Projects
+
 🔹 Shipping System
 
 Web application for managing shipments with multi-role access.
 Tech: ASP.NET Web API, SQL Server, 3-Tier Architecture
-Highlights: JWT Auth · Email Notifications · Specification Pattern
+Highlights: Live system with real-time order tracking . JWT Auth · Email Notifications · Specification Pattern
 
 🔹 E-Commerce Platform
 
@@ -47,7 +48,7 @@ Highlights: Components · Routing · Clean UI
 
 📫 Contact Me
 
-LinkedIn: www.linkedin.com/in/mina-magdy-1418562b5
+LinkedIn: [Mina Magdy] www.linkedin.com/in/mina-magdy-1418562b5
 
 Email: minamagdylatif5@gmail.com
 
