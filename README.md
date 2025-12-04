@@ -38,8 +38,6 @@ Additional Technical Skills
 
 ✔ Design Patterns & Architecture Patterns
 
-✔ Git & GitHub
-
 Interpersonal Skills
 
 ✔ Leadership | Problem Solving | Communication
