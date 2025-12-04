@@ -15,7 +15,7 @@ I enjoy building production-ready systems, automating processes, and solving rea
 Frontend
 <div align="left"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </div>
 Backend
-<div align="left"> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Web API-2F74C0?style=for-the-badge&logo=dotnet"> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/SignalR-6D2B9E?style=for-the-badge"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> </div>
+<div align="left"> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Web API-2F74C0?style=for-the-badge&logo=dotnet"> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/SignalR-6D2B9E?style=for-the-badge"> </div>
 Database
 <div align="left"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </div>
 Tools & Others
@@ -47,7 +47,7 @@ Highlights: Components · Routing · Clean UI
 
 📫 Contact Me
 
-LinkedIn: Mina Magdy
+LinkedIn: www.linkedin.com/in/mina-magdy-1418562b5
 
 Email: minamagdylatif5@gmail.com
 
