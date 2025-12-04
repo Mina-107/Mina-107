@@ -30,7 +30,6 @@ Tools & Others
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&animation=spin" alt="Postman">
 </div>
 
-
 Additional Technical Skills
 
 ✔ Data Structures & Algorithms
@@ -39,7 +38,6 @@ Additional Technical Skills
 
 ✔ Git & GitHub
 
-
 Interpersonal Skills
 
 ✔ Leadership | Problem Solving | Communication
@@ -47,7 +45,6 @@ Interpersonal Skills
 ✔ Team collaboration | Agile Mindset | Multitasking
 
 ✔ Time & Task Management
-
 
 📂 Featured Projects
 
