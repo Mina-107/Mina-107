@@ -29,10 +29,13 @@ Interpersonal Skills
 ✔ Time & Task Management
 
 📂 Featured Projects
+
 🔹 Shipping System
 
 Web system for managing shipments and workflow automation.
+
 Tech: ASP.NET Web API, SQL Server, 3-Tier Architecture
+
 Highlights: Live system with real-time order tracking . JWT Auth · Notification Emails · Specification Pattern
 
 🔹 Meal Delivery System
