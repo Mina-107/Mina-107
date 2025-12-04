@@ -5,8 +5,6 @@ Full-Stack Developer building modern, scalable applications using ASP.NET Core, 
 Passionate about backend architecture, clean code, and real-time communication with SignalR.
 I enjoy building production-ready systems, automating processes, and solving real problems with code.
 
-🌱 Currently learning: Advanced .NET Architecture, Design Patterns, Clean Code
-
 💼 Open to opportunities in Backend & Full-Stack Development
 
 ⚡ Fun fact: I love turning ideas into real software — functional, fast, and elegant.
@@ -37,7 +35,9 @@ Highlights: Payment Integration · Notifications · Onion Architecture
 🔹 Company Management System
 
 Web dashboard for employee & company management.
+
 Tech: Laravel, MySQL, Bootstrap
+
 Highlights: Roles & Permissions · Cookie Auth
 
 🔹 Recipe Platform
