@@ -1,16 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Mina Magdy Latif</h1>
 
-<h2 align="center">Backend Developer</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Backend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Full-Stack Developer skilled in building scalable, high-performance web applications using **ASP.NET Core, Laravel & Angular**.  
-Focused on clean architecture, problem solving, and creating real products that actually work.  
-I enjoy backend development, system structuring, and turning ideas into functional software.
+Full-Stack Developer building modern web applications with **ASP.NET Core, Angular, and Laravel**.  
+Passionate about real-time systems, backend architecture, and clean, maintainable code.  
+I enjoy automating workflows and creating practical solutions for real-world problems.
 
-- 🌱 Currently focused on Backend & System Design  
 - 💼 Open to opportunities in Backend & Full-Stack Development  
 - ⚡ Fun fact: I love turning ideas into real-world applications  
 
@@ -57,14 +58,6 @@ I enjoy backend development, system structuring, and turning ideas into function
 
 ✔ Data Structures & Algorithms  
 ✔ Design Patterns & Architecture Patterns  
-
----
-
-## 🤝 Interpersonal Skills
-
-✔ Leadership | Problem Solving | Communication  
-✔ Team collaboration | Agile Mindset | Multitasking  
-✔ Time & Task Management  
 
 ---
 
