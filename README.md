@@ -31,7 +31,7 @@ I enjoy automating workflows and creating practical solutions for real-world pro
 
 ### ⚙️ Backend
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-2F74C0?style=for-the-badge&logo=dotnet)
+![REST API](https://img.shields.io/badge/REST%20API-2F74C0?style=for-the-badge)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -42,6 +42,7 @@ I enjoy automating workflows and creating practical solutions for real-world pro
 ### 🗄 Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
